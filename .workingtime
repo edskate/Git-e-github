@@ -772,16 +772,37 @@
                         {
                             "sessionInfo": {
                                 "id": "86f4c339-4c70-4bb8-9a5e-733c41bb6c15",
-                                "duration": 586728,
-                                "idle": 1789137,
-                                "state": "Idle",
+                                "duration": 1033039,
+                                "idle": 2689152,
+                                "state": "Ongoing",
                                 "durations": [
+                                    {
+                                        "id": "dce42734-21c7-4c74-b808-6d614a6a1a74",
+                                        "state": "Ongoing",
+                                        "begin": 1788801469234,
+                                        "end": 1788801469234,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "78bfa8a3-6523-44c9-9bcc-30c4ac60553c",
+                                        "state": "Idle",
+                                        "begin": 1788801432129,
+                                        "end": 1788801469234,
+                                        "duration": 37105
+                                    },
+                                    {
+                                        "id": "c84070d0-5591-4fe8-b2d3-df78db050dcf",
+                                        "state": "Ongoing",
+                                        "begin": 1788801270557,
+                                        "end": 1788801432128,
+                                        "duration": 161571
+                                    },
                                     {
                                         "id": "63ba793e-6a5c-4b86-8562-7273fd1d26eb",
                                         "state": "Idle",
                                         "begin": 1788799653961,
-                                        "end": 1788799653961,
-                                        "duration": 0
+                                        "end": 1788801270557,
+                                        "duration": 1616596
                                     },
                                     {
                                         "id": "1b46aa42-6b59-4258-87f2-7a73cf3a15f0",
@@ -810,7 +831,7 @@
                                     ".html"
                                 ]
                             },
-                            "actionType": "Idle"
+                            "actionType": "Codding"
                         }
                     ]
                 }

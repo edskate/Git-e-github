@@ -765,6 +765,54 @@
                             "actionType": "Idle"
                         }
                     ]
+                },
+                {
+                    "date": "Mon Sep 07 2026",
+                    "sessions": [
+                        {
+                            "sessionInfo": {
+                                "id": "86f4c339-4c70-4bb8-9a5e-733c41bb6c15",
+                                "duration": 586728,
+                                "idle": 1789137,
+                                "state": "Idle",
+                                "durations": [
+                                    {
+                                        "id": "63ba793e-6a5c-4b86-8562-7273fd1d26eb",
+                                        "state": "Idle",
+                                        "begin": 1788799653961,
+                                        "end": 1788799653961,
+                                        "duration": 0
+                                    },
+                                    {
+                                        "id": "1b46aa42-6b59-4258-87f2-7a73cf3a15f0",
+                                        "state": "Ongoing",
+                                        "begin": 1788799356365,
+                                        "end": 1788799653961,
+                                        "duration": 297596
+                                    },
+                                    {
+                                        "id": "d3fce10f-c0e8-4618-b82f-1db30e045dec",
+                                        "state": "Idle",
+                                        "begin": 1788799353953,
+                                        "end": 1788799356365,
+                                        "duration": 2412
+                                    },
+                                    {
+                                        "id": "f59baeda-7da1-4c79-8dcb-86e8ce7fcb60",
+                                        "state": "Ongoing",
+                                        "begin": 1788799064821,
+                                        "end": 1788799353953,
+                                        "duration": 289132
+                                    }
+                                ],
+                                "filesExt": [
+                                    ".vscode-chat-customizations-evaluations-#1-Chat Customizations Evaluations",
+                                    ".html"
+                                ]
+                            },
+                            "actionType": "Idle"
+                        }
+                    ]
                 }
             ]
         }
